@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a72df7b-693d-4cdd-bfad-409980b5995e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/untamemadman_Mod/textures/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/untamemadman_Mod/lang/placeholder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/untamemadman_Mod/sounds/placeholder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/untamemadman_Mod/textures/placeholder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/blocks/BlockGreenScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/handler/ConfigHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/client/gui/GuiFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/client/gui/ModGuiConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/init/pre.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/proxy/ClientProxy.java" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/proxy/ClientProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/proxy/CommonProxy.java" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/proxy/CommonProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/proxy/IProxy.java" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/proxy/IProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/utility/LogHelper.java" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/utility/LogHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/reference/Reference.java" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/reference/Reference.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/proxy/ServerProxy.java" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/proxy/ServerProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/gradle.log" afterPath="$PROJECT_DIR$/.gradle/gradle.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/blocks/BlockGreenScreen.java" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/blocks/BlockGreenScreen.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untamemadman-Mod.iws" afterPath="$PROJECT_DIR$/untamemadman-Mod.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/untamemadman_Mod.java" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/untamemadman_Mod.java" />
     </list>
     <ignored path="untamemadman-Mod.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,11 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="untamemadman_Mod.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="untamemadman_Mod.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/untamemadman_Mod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6353135" vertical-offset="482" max-vertical-offset="1088">
-              <caret line="51" column="187" selection-start-line="51" selection-start-column="187" selection-end-line="51" selection-end-column="187" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="482" max-vertical-offset="1088">
+              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="201" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,15 +78,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlockGreenScreen.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pre.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/init/pre.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockGreenScreen.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/blocks/BlockGreenScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.549273" vertical-offset="0" max-vertical-offset="629">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -782,8 +769,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/assets/untamemadman_Mod/models/block/GreenScreen.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/untamemadman_Mod/models/item/GreenScreen.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/untamemadman_Mod/blockstates/Greenscreen.json" />
-        <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/blocks/BlockGreenScreen.java" />
         <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/untamemadman_Mod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/blocks/BlockGreenScreen.java" />
       </list>
     </option>
   </component>
@@ -1394,8 +1381,8 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32953367" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1459,8 +1446,8 @@
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1554,16 +1541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/init/pre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.302589" vertical-offset="0" max-vertical-offset="618">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/reference/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
@@ -1572,24 +1549,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/blocks/BlockGreenScreen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/untamemadman_Mod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="482" max-vertical-offset="1088">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="201" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/untamemadman_Mod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/init/pre.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6353135" vertical-offset="482" max-vertical-offset="1088">
-          <caret line="51" column="187" selection-start-line="51" selection-start-column="187" selection-end-line="51" selection-end-column="187" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/modding/untamemadman_Mod/blocks/BlockGreenScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.549273" vertical-offset="0" max-vertical-offset="629">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -18,7 +18,7 @@ public class BlockGreenScreen extends Block
         super(Material.rock);
         GameRegistry.registerBlock(this, name);
         setUnlocalizedName(Reference.MOD_ID + "_" + name);
-        setCreativeTab(CreativeTabs.tabAllSearch);
+        setCreativeTab(CreativeTabs.tabBlock);
         setLightLevel(1.0F);
         setBlockUnbreakable();
         setResistance(6000000.0F);
