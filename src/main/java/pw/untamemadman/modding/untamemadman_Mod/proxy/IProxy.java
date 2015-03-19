@@ -1,4 +1,4 @@
-package pw.untamemadman.modding.untamemadman_mod.proxy;
+package pw.untamemadman.modding.untamemadman_Mod.proxy;
 
 /**
  * Created by untamemadman on 25/02/2015.

@@ -1,8 +1,8 @@
-package pw.untamemadman.modding.untamemadman_mod.utility;
+package pw.untamemadman.modding.untamemadman_Mod.utility;
 
 import net.minecraftforge.fml.common.FMLLog;
 import org.apache.logging.log4j.Level;
-import pw.untamemadman.modding.untamemadman_mod.reference.Reference;
+import pw.untamemadman.modding.untamemadman_Mod.reference.Reference;
 
 public class LogHelper
 {
